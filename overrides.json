@@ -1,5 +1,8 @@
 {
   "@jupyterlab/docmanager-extension:plugin": {
     "nameFileOnSave": false
+  },
+  “jupyter-config-data”: {
+    “collaborative”: true
   }
 }
